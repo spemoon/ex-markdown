@@ -1,7 +1,7 @@
 # 扩展的 markdown 解析
 
-在 [marke](https://github.com/chjj/markedd]) 基础上增加了 section 语法  
-同时将其切分模块, 方便自己法都参照 [marke](https://github.com/chjj/markedd]) 
+在 [marked](https://github.com/chjj/marked) 基础上增加了 section 语法  
+同时将其切分模块, 方便自己法都参照 [marked](https://github.com/chjj/marked) 
 
 增加的 section 用法:
 
