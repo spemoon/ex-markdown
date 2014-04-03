@@ -1,0 +1,25 @@
+{
+    "name": "ex-markdown",
+    "version": "0.0.1",
+    "description": "extend markdown function",
+    "main": "./lib/markdown.js",
+    "bin": {
+        "markdown": "lib/markdown.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/caolvchong/ex-markdown.git"
+    },
+    "keywords": [
+        "markdown", "node"
+    ],
+    "author": "caolvchong <caolvchong@gmail.com> (http://tomjoke.com/)",
+    "license": "BSD",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "homepage": "https://github.com/caolvchong/ex-markdown"
+}
